@@ -1,11 +1,13 @@
-#Handcrafted Holiday
-### a hotel booking web application
+
+## Handcrafted Holiday
+#### A hotel booking web application
 Users can provide destination, dates and number of rooms required, see the list of available hotels and details about a particular hotel.
 
-###Website link - https://handcrafted-holiday.herokuapp.com/
+#### Website link - 
+https://handcrafted-holiday.herokuapp.com/
 
 
-###Screenshots
+#### Screenshots
 ![Screenshot (324)](https://user-images.githubusercontent.com/68150718/176678736-cf18a322-5c25-40b7-bf2a-9d210380b727.png)
 
 ![Screenshot (325)](https://user-images.githubusercontent.com/68150718/176678779-d0751cc1-d35a-415f-8a7f-bd80c6e62a1a.png)
@@ -20,15 +22,15 @@ Users can provide destination, dates and number of rooms required, see the list 
 b588fcfe.png)
 
 
-### Used Technology
--JavaScript
--React
--CSS
--HTML
+#### Used Technology
+- JavaScript
+- React
+- CSS
+- HTML
 
 
-###Steps to run the website locally-
--Clone this repository.
--Run npm install.
--Run npm start.
+#### Steps to run the website locally-
+- Clone this repository.
+- Run npm install.
+- Run npm start.
 
